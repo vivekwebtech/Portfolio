@@ -124,7 +124,7 @@ export default function CertificatePage() {
                               <div className="cert-body">
                                 <h2
                                   className="cert-body-title"
-                                  style={{ fontWeight: 700, color: "#fbd9ad" }}
+                                  style={{ fontWeight: 690, color: "#fbd9ad" }}
                                 >
                                   Full Stack Web Development
                                 </h2>
